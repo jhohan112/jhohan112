@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 :computer: **estudiante de ciber seguridad y hacking etico**
-:world: i am from Bogotá,Colombia
+
+:CO: i am from Bogotá,Colombia
 
 ## Vias de contacto
 
