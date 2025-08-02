@@ -5,4 +5,4 @@
 
 ## Vias de contacto
 
-![Instagram](https://www.instagram.com/jhohan122_/#)
+![twitter](https://img.shields.io/twitter/follow/jhohangame)
