@@ -2,7 +2,7 @@
 
 :computer: **estudiante de ciber seguridad y hacking etico**
 
-:CO: i am from Bogotá,Colombia
+i am from Bogotá,Colombia
 
 ## Vias de contacto
 
