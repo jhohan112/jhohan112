@@ -15,4 +15,4 @@ jobs:
         
       - name: Update README with recent activity
       
-        uses: your-username/repository-jhohan112@main 
+        uses: jhohan112/repository-jhohan112@main 
